@@ -183,7 +183,7 @@
        
     }
 
-    .fear {animation: fear 5s alternate 5;
+    .fear {animation: fear 5s alternate infinite;
     }
 
     @keyframes fear {
@@ -490,7 +490,7 @@
        
     }
 
-    .olden {animation: olden 5s alternate 7;
+    .olden {animation: olden 5s alternate infinite;
     }
 
     @keyframes olden {
