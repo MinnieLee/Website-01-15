@@ -112,7 +112,7 @@
         font-size: 17px;
     }
     100% {
-        color:rgb(23, 197, 81);
+        color:rgb(65, 236, 122);
         font-size: 19px;
         transform: skew(-20deg);
         transform-origin: bottom left;
@@ -653,3 +653,301 @@
          }
         }
          
+
+        .sb{animation: sb 4s alternate infinite;
+        }
+        
+        @keyframes sb {
+            0% {
+                color:black;
+                font-size: 17px;
+            }
+            100% {
+                color:rgb(196, 128, 241);
+                font-size: 17px;
+               
+            }
+        
+        }
+
+        .sc{animation: sc 4s alternate infinite;
+        }
+        
+        @keyframes sc {
+            0% {
+                color:white;
+                font-size: 17px;
+            }
+            100% {
+                color:rgb(195, 241, 134);
+                font-size: 25px;
+               
+            }
+           
+        }
+
+        
+
+         .tonight{animation: tonight 4s alternate infinite;
+         }
+         
+         @keyframes tonight {
+             0% {
+                 color:black;
+                 font-size: 17px;
+             }
+             100% {
+                 color:rgb(103, 134, 235);
+                 font-size: 23px;
+                 transform: skew(-20deg);
+                 transform-origin: bottom left;
+             }
+            
+         }
+       
+
+         .box11{animation: box11 3s alternate infinite;}
+
+         @keyframes box11{
+           0%{
+            background-color: rgba(247, 193, 142, 0);
+            color: rgb(247, 142, 200);
+            height: 20px;
+            width: 70px;
+            font-size: 17px;
+         } 
+         100%{
+            background-color: rgb(247, 142, 200);
+            color: white;
+            height: 20px;
+            width: 70px;
+            font-size: 17px;
+         }
+       
+        
+        }
+         
+        .look{
+            color:rgb(240, 238, 110);
+            transition: all 0.4s linear;
+            font-size: 17px;
+            font-family: Arial, Helvetica, sans-serif;
+            
+        }
+        
+        .look:hover{
+            color: rgb(233, 233, 233);
+            transition: all 0.4s linear;
+            font-size: 17px;
+            font-family: Arial, Helvetica, sans-serif;
+            
+        }
+
+        .ap {animation: ap 5s alternate infinite;
+        }
+        
+         @keyframes ap {
+             0% {
+                 color:rgb(255, 255, 255);
+                 font-size: 17px;
+             }
+             30% {
+                 color:rgb(230, 215, 86);
+                 font-size: 17px;
+             }
+             50% {
+                 color:rgb(218, 132, 75);
+                 font-size: 17px;
+             }
+             100% {
+                 color:rgb(238, 133, 101);
+                 font-size: 17px;
+             }
+            
+         }
+
+         .box12{animation: box12 3s alternate infinite;}
+
+         @keyframes box12{
+           0%{
+            color: white;
+            font-size: 17px;
+         } 
+         100%{
+            color: rgb(247, 142, 168);
+            font-size: 21px;
+         }
+       
+        
+        }
+
+        .box13{animation: box13 3s alternate infinite;}
+
+         @keyframes box13{
+          0%{
+            background-color: rgb(142, 226, 247);
+            color: white;
+            height: 20px;
+            width: 55px;
+            font-size: 17px;
+         } 
+         
+         100%{
+            background-color: rgba(247, 193, 142, 0);
+            color: rgb(142, 226, 247);
+            height: 20px;
+            width: 55px;
+            font-size: 17px;
+         } 
+         
+       
+        
+        }
+
+        .box14{animation: box14 3s alternate infinite;}
+
+         @keyframes box14{
+           0%{
+            color: white;
+            font-size: 17px;
+         } 
+         100%{
+            color: rgb(217, 142, 247);
+            font-size: 21px;
+         }
+       
+        
+        }
+
+        .tonightt{animation: tonightt 4s alternate infinite;
+        }
+        
+        @keyframes tonightt {
+            0% {
+                color:black;
+                font-size: 17px;
+            }
+            100% {
+                color:rgb(103, 176, 235);
+                font-size: 23px;
+                transform: skew(-20deg);
+                transform-origin: bottom left;
+            }
+           
+        }
+
+        .app {animation: app 5s alternate infinite;
+        }
+        
+         @keyframes app {
+             0% {
+                 color:rgb(255, 255, 255);
+                 font-size: 17px;
+             }
+             30% {
+                 color:rgb(238, 125, 204);
+                 font-size: 17px;
+             } 
+             50% {
+                 color:rgb(238, 101, 101);
+                 font-size: 17px;
+             }
+             100% {
+                 color:rgb(218, 75, 111);
+                 font-size: 17px;
+             }
+            
+            
+         }
+
+         .lookk{
+            color:rgb(240, 128, 206);
+            transition: all 0.4s linear;
+            font-size: 17px;
+            font-family: Arial, Helvetica, sans-serif;
+            
+        }
+        
+        .lookk:hover{
+            color: rgb(233, 233, 233);
+            transition: all 0.4s linear;
+            font-size: 17px;
+            font-family: Arial, Helvetica, sans-serif;
+            
+        }
+
+        .scc{animation: scc 4s alternate infinite;
+        }
+        
+        @keyframes scc {
+            0% {
+                color:white;
+                font-size: 17px;
+            }
+            100% {
+                color:rgb(245, 211, 118);
+                font-size: 25px;
+               
+            }
+           
+        }
+
+        .sbb{animation: sbb 4s alternate infinite;
+        }
+        
+        @keyframes sbb {
+            0% {
+                color:black;
+                font-size: 17px;
+            }
+            100% {
+                color:rgb(128, 196, 241);
+                font-size: 17px;
+               
+            }
+        
+        }
+
+        .box17{animation: box17 3s alternate infinite;}
+
+        @keyframes box17{
+          0%{
+           background-color: rgba(247, 193, 142, 0);
+           color: rgb(247, 149, 142);
+           height: 20px;
+           width: 70px;
+           font-size: 17px;
+        } 
+        100%{
+           background-color: rgb(247, 149, 142);
+           color: white;
+           height: 20px;
+           width: 70px;
+           font-size: 17px;
+        }
+      
+       
+       }
+
+       .box18{animation: box18 3s alternate infinite;}
+
+       @keyframes box18{
+        0%{
+          background-color: rgb(110, 241, 202);
+          color: white;
+          height: 20px;
+          width: 55px;
+          font-size: 17px;
+       } 
+       
+       100%{
+          background-color: rgba(247, 193, 142, 0);
+          color: rgb(110, 241, 202);
+          height: 20px;
+          width: 55px;
+          font-size: 17px;
+       } 
+       
+     
+      
+      }
