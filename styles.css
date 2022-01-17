@@ -37,7 +37,7 @@
     
     p {
         font-size: 17px;
-        font-family: Arial, Helvetica, sans-serif;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
         margin-bottom: 7px;
         line-height: 24px;
     }
@@ -112,7 +112,7 @@
         font-size: 17px;
     }
     100% {
-        color:rgb(65, 236, 122);
+        color:rgb(78, 231, 142);
         font-size: 19px;
         transform: skew(-20deg);
         transform-origin: bottom left;
@@ -214,14 +214,14 @@
         background-color: rgb(247, 142, 233);
         color: white;
         height: 20px;
-        width: 63px;
+        width: 60px;
         font-size: 17px;
      }
      .box2:hover{
         background-color: rgba(255, 255, 255, 0);
         color: rgb(247, 142, 233);
         height: 20px;
-        width: 63px;
+        width: 60px;
         font-size: 17px;
      }
 
@@ -229,14 +229,14 @@
         background-color:rgba(255, 255, 255, 0) ;
         color: rgb(247, 142, 233);
         height: 20px;
-        width: 71px;
+        width: 67px;
         font-size: 17px;
      }
      .box3:hover{
         background-color: rgb(247, 142, 233);
         color: white;
         height: 20px;
-        width: 71px;
+        width: 67px;
         font-size: 17px;
      }
 
@@ -297,14 +297,14 @@
             background-color: rgb(247, 193, 142);
             color: white;
             height: 20px;
-            width: 71px;
+            width: 62px;
             font-size: 17px;
          }
          .box4:hover{
             background-color: rgba(247, 193, 142, 0);
             color: rgb(247, 193, 142);
             height: 20px;
-            width: 71px;
+            width: 62px;
             font-size: 17px;
          }
 
@@ -312,14 +312,14 @@
             background-color: rgba(247, 193, 142, 0);
             color: rgb(247, 193, 142);
             height: 20px;
-            width: 80px;
+            width: 74px;
             font-size: 17px;
          }
          .box5:hover{
             background-color: rgb(247, 193, 142);
             color: white;
             height: 20px;
-            width: 80px;
+            width: 74px;
             font-size: 17px;
          }
 
@@ -455,14 +455,14 @@
                 background-color: rgba(252, 248, 248, 0);
                 color: rgb(247, 210, 142);
                 height: 20px;
-                width: 140px;
+                width: 130px;
                 font-size: 17px;
              }
                .box6:hover{
                 background-color: rgb(247, 210, 142);
                 color: white;
                 height: 20px;
-                width: 140px;
+                width: 130px;
                 font-size: 17px;
              }
              
@@ -552,14 +552,14 @@
         background-color: rgba(247, 193, 142, 0);
         color: rgb(142, 161, 247);
         height: 20px;
-        width: 105px;
+        width: 97px;
         font-size: 17px;
      }
      .box7:hover{
         background-color: rgb(142, 161, 247);
         color: white;
         height: 20px;
-        width: 105px;
+        width: 97px;
         font-size: 17px;
      }
 
@@ -567,14 +567,14 @@
         background-color: rgba(247, 193, 142, 0);
         color: rgb(247, 193, 142);
         height: 20px;
-        width: 175px;
+        width: 155px;
         font-size: 17px;
      }
      .box8:hover{
         background-color: rgb(247, 193, 142);
         color: white;
         height: 20px;
-        width: 175px;
+        width: 155px;
         font-size: 17px;
      }
    
@@ -621,14 +621,14 @@
             background-color: rgb(142, 161, 247);
             color: white;
             height: 20px;
-            width: 75px;
+            width: 70px;
             font-size: 17px;
          }
          100% {
             background-color: rgba(247, 193, 142, 0);
             color: rgb(142, 161, 247);
             height: 20px;
-            width: 75px;
+            width: 70px;
             font-size: 17px;
          }
         }
@@ -640,7 +640,7 @@
             background-color: rgb(247, 193, 142);
             color: white;
             height: 20px;
-            width: 54px;
+            width: 50px;
             font-size: 17px;
          }
        
@@ -648,7 +648,7 @@
             background-color: rgba(247, 193, 142, 0);
             color: rgb(247, 193, 142);
             height: 20px;
-            width: 54px;
+            width: 50px;
             font-size: 17px;
          }
         }
@@ -713,14 +713,14 @@
             background-color: rgba(247, 193, 142, 0);
             color: rgb(247, 142, 200);
             height: 20px;
-            width: 70px;
+            width: 65px;
             font-size: 17px;
          } 
          100%{
             background-color: rgb(247, 142, 200);
             color: white;
             height: 20px;
-            width: 70px;
+            width: 65px;
             font-size: 17px;
          }
        
@@ -788,7 +788,7 @@
             background-color: rgb(142, 226, 247);
             color: white;
             height: 20px;
-            width: 55px;
+            width: 45px;
             font-size: 17px;
          } 
          
@@ -796,7 +796,7 @@
             background-color: rgba(247, 193, 142, 0);
             color: rgb(142, 226, 247);
             height: 20px;
-            width: 55px;
+            width: 45px;
             font-size: 17px;
          } 
          
@@ -915,14 +915,14 @@
            background-color: rgba(247, 193, 142, 0);
            color: rgb(247, 149, 142);
            height: 20px;
-           width: 70px;
+           width: 65px;
            font-size: 17px;
         } 
         100%{
            background-color: rgb(247, 149, 142);
            color: white;
            height: 20px;
-           width: 70px;
+           width: 65px;
            font-size: 17px;
         }
       
@@ -936,7 +936,7 @@
           background-color: rgb(110, 241, 202);
           color: white;
           height: 20px;
-          width: 55px;
+          width: 45px;
           font-size: 17px;
        } 
        
@@ -944,10 +944,12 @@
           background-color: rgba(247, 193, 142, 0);
           color: rgb(110, 241, 202);
           height: 20px;
-          width: 55px;
+          width: 45px;
           font-size: 17px;
        } 
        
      
       
       }
+
+      
