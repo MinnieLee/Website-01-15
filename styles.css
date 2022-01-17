@@ -1099,3 +1099,21 @@
        
         
         }
+
+        .aw {animation: aw 5s alternate infinite;
+        }
+    
+        @keyframes aw {
+            0%{
+                transform:rotate(0deg);
+                transform-origin: bottom left;
+                color:rgb(255, 255, 255);
+                font-size: 17px;
+            }
+            100%{
+                transform:rotate(360deg);
+                transform-origin: bottom left;
+                color:rgb(247, 181, 142);
+                font-size: 19px;
+            }
+        }
