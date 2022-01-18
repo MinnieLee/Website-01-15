@@ -103,7 +103,7 @@
  }
 
 
-.rotate{animation: r 4s alternate infinite;
+.rotate{animation: r 6s alternate infinite;
 }
 
 @keyframes r {
@@ -183,7 +183,7 @@
        
     }
 
-    .fear {animation: fear 5s alternate infinite;
+    .fear {animation: fear 7s alternate infinite;
     }
 
     @keyframes fear {
@@ -484,7 +484,7 @@
        
     }
 
-    .olden {animation: olden 5s alternate infinite;
+    .olden {animation: olden 7s alternate infinite;
     }
 
     @keyframes olden {
@@ -1047,7 +1047,7 @@
         
         }
 
-        .hp {animation: hp 5s alternate infinite;
+        .hp {animation: hp 7s alternate infinite;
         }
     
         @keyframes hp {
